@@ -22,7 +22,7 @@ module.exports = {
         'type-empty': [2, 'never'],
         'scope-empty': [2, 'never'],
         'references-empty': [2, 'never'],
-        //'subject-trailing-references': [2, 'always'],
+        'subject-trailing-references': [2, 'always'],
         'type-enum': [
             2,
             'always',
